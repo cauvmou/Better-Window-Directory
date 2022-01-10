@@ -1,0 +1,172 @@
+{
+    "dir": {
+        "symbol": "📁",
+        "color": [
+            230, 230, 230
+        ],
+        "bg_color": [
+            120, 100, 60
+        ]
+    },
+    "other": {
+        "symbol": "📝",
+        "color": [
+            230,230,230
+        ],
+        "bg_color": [
+            0,0,0
+        ]
+    },
+    "files": [
+        {
+            "symbol": "🦑",
+            "priority": 1,
+            "endings": [
+                "gitignore"
+            ],
+            "color": [
+                230,230,230
+            ],
+            "bg_color": [
+                0,0,0
+            ]
+        },
+        {
+            "symbol": "🚀",
+            "priority": 3,
+            "endings": [
+                "exe"
+            ],
+            "color": [
+                230,230,230
+            ],
+            "bg_color": [
+                0,0,0
+            ]
+        },
+        {
+            "symbol": "🔧",
+            "priority": 4,
+            "endings": [
+                "toml",
+                "json",
+                "lock",
+                "yml"
+            ],
+            "color": [
+                230,230,230
+            ],
+            "bg_color": [
+                0,0,0
+            ]
+        },
+        {
+            "symbol": "📦",
+            "priority": 2,
+            "endings": [
+                "zip",
+                "rar",
+                "7z",
+                "jar",
+                "msi"
+            ],
+            "color": [
+                162, 162, 162
+            ],
+            "bg_color": [
+                0,0,0
+            ]
+        },
+        {
+            "symbol": "🌈",
+            "priority": 5,
+            "endings": [
+                "png",
+                "jpg",
+                "jpeg",
+                "tif",
+                "gif"
+            ],
+            "color": [
+                230,230,230
+            ],
+            "bg_color": [
+                0,0,0
+            ]
+        },
+        {
+            "symbol": "🔊",
+            "priority": 6,
+            "endings": [
+                "mp3",
+                "wav",
+                "ogg"
+            ],
+            "color": [
+                230,230,230
+            ],
+            "bg_color": [
+                0,0,0
+            ]
+        },
+        {
+            "symbol": "📘",
+            "priority": 7,
+            "endings": [
+                "docx",
+                "odt"
+            ],
+            "color": [
+                230,230,230
+            ],
+            "bg_color": [
+                0,0,0
+            ]
+        },
+        {
+            "symbol": "📕",
+            "priority": 8,
+            "endings": [
+                "pdf"
+            ],
+            "color": [
+                230,230,230
+            ],
+            "bg_color": [
+                0,0,0
+            ]
+        },
+        {
+            "symbol": "📗",
+            "priority": 9,
+            "endings": [
+                "xls", "xlsx"
+            ],
+            "color": [
+                230,230,230
+            ],
+            "bg_color": [
+                0,0,0
+            ]
+        },
+        {
+            "symbol": "📜",
+            "priority": 10,
+            "endings": [
+                "js",
+                "ts",
+                "rs",
+                "css",
+                "html",
+                "py",
+                "java"
+            ],
+            "color": [
+                230,230,230
+            ],
+            "bg_color": [
+                0,0,0
+            ]
+        }
+    ]
+}
